@@ -1,6 +1,6 @@
 # DC-GAN Training
 
-This codebase is a slightly modified version of [ganshowcase](https://github.com/alantian/ganshowcase). View the web version of the original [here](https://alantian.net/ganshowcase/) to see what's possible.
+This codebase is a slightly modified version of [ganshowcase](https://github.com/alantian/ganshowcase). View the web version of the original [here](https://alantian.github.io/ganshowcase/) to see what's possible.
 
 ## Requirements
 
