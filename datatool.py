@@ -133,7 +133,7 @@ def dir_to_npz():
     channels = img.shape[2] if img.ndim == 3 else 1
 
     if channels not in [1, 3]:
-        logging.error('Error: Input images must be stored as RGB or grayscale')
+        logging.error('Error: Input images must be stored as RGB or grayscale. If you\'re using PNGs, you can convert them to JPGs to remove the alpha channel.')
         return
 
     def center_crop(img):
