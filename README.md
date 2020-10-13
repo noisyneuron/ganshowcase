@@ -11,10 +11,12 @@ This codebase is a slightly modified version of [ganshowcase](https://github.com
 
 ## Usage
 
+Note: You can use [this Google Colab notebook](https://colab.research.google.com/drive/1WmZRWG1L1_SuBwDVyiexcLkGSn8gqYap?usp=sharing) to train a model without needing to install anything on your computer.
+
 #### 1) Download this repository
 
 ```bash
-git clone https://github.com/noisyneuron/training-dcgan
+git clone https://github.com/ml5js/training-dcgan
 cd training-dcgan
 ```
 
